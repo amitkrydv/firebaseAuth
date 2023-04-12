@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/firebaseAuth/static/css/main.3d8ac20a.chunk.css",
-    "main.js": "/firebaseAuth/static/js/main.e4c362fd.chunk.js",
-    "main.js.map": "/firebaseAuth/static/js/main.e4c362fd.chunk.js.map",
+    "main.js": "/firebaseAuth/static/js/main.c6197a55.chunk.js",
+    "main.js.map": "/firebaseAuth/static/js/main.c6197a55.chunk.js.map",
     "runtime-main.js": "/firebaseAuth/static/js/runtime-main.6f545698.js",
     "runtime-main.js.map": "/firebaseAuth/static/js/runtime-main.6f545698.js.map",
     "static/css/2.cbedb215.chunk.css": "/firebaseAuth/static/css/2.cbedb215.chunk.css",
-    "static/js/2.b6323ae9.chunk.js": "/firebaseAuth/static/js/2.b6323ae9.chunk.js",
-    "static/js/2.b6323ae9.chunk.js.map": "/firebaseAuth/static/js/2.b6323ae9.chunk.js.map",
+    "static/js/2.d2b20d1e.chunk.js": "/firebaseAuth/static/js/2.d2b20d1e.chunk.js",
+    "static/js/2.d2b20d1e.chunk.js.map": "/firebaseAuth/static/js/2.d2b20d1e.chunk.js.map",
     "index.html": "/firebaseAuth/index.html",
     "static/css/2.cbedb215.chunk.css.map": "/firebaseAuth/static/css/2.cbedb215.chunk.css.map",
     "static/css/main.3d8ac20a.chunk.css.map": "/firebaseAuth/static/css/main.3d8ac20a.chunk.css.map",
-    "static/js/2.b6323ae9.chunk.js.LICENSE.txt": "/firebaseAuth/static/js/2.b6323ae9.chunk.js.LICENSE.txt"
+    "static/js/2.d2b20d1e.chunk.js.LICENSE.txt": "/firebaseAuth/static/js/2.d2b20d1e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6f545698.js",
     "static/css/2.cbedb215.chunk.css",
-    "static/js/2.b6323ae9.chunk.js",
+    "static/js/2.d2b20d1e.chunk.js",
     "static/css/main.3d8ac20a.chunk.css",
-    "static/js/main.e4c362fd.chunk.js"
+    "static/js/main.c6197a55.chunk.js"
   ]
 }
