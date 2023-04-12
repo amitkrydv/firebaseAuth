@@ -3,7 +3,7 @@ import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
   apiKey: "AIzaSyCJxBpylQ6cQodpgiqtAJdT6MQPV2bexD0",
-  authDomain: "emailauth-8a9ed.firebaseapp.com",
+  authDomain: "amitkrydv.github.io.firebaseapp.com",
   projectId: "emailauth-8a9ed",
   storageBucket: "emailauth-8a9ed.appspot.com",
   messagingSenderId: "429679844186",
